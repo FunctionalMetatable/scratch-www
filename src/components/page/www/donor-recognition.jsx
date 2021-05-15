@@ -27,7 +27,7 @@ const DonorRecognition = () => (
                     donor1: 'Massachusetts Institute of Technology',
                     donor2: 'National Science Foundation',
                     donor3: 'Siegel Family Endowment',
-                    donor4: 'LEGO Foundation'
+                    donor4: 'The LEGO Foundation'
                 }}
             />
         </div>
